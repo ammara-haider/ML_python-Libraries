@@ -115,5 +115,4 @@ Follow it stage by stage, practice with projects, and you’ll build a strong ML
 
 ---
 
-✨ *Start small, build projects at each stage, and gradually move to advanced ML/DL.*  
-Happy Learning! 🚀  
+
